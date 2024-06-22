@@ -17,5 +17,5 @@ Take charge of your health with our Personalized Medical Recommendation System. 
 
 
 
-![Example Image](https://github.com/ashudevin/BangaloreHousePricePrediction-ML-Project/blob/main/Bangalore%20House.png)
+![Example Image](https://github.com/ashudevin/CYD-Recommendation-System-ML/blob/main/CYD%20UI.png)
 
