@@ -1,10 +1,7 @@
 # Check Your Disease (CYD) 
 ## Personalized-Medical-Recommendation-System-with-Machine-Learning
-<br>
 
 ![Example Image](https://github.com/ashudevin/CYD-Recommendation-System-ML/blob/main/CYD%20UI.png)
-
-<br>
 
 Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
 
